@@ -44,7 +44,7 @@ Since the source code is not public to prevent misuse of the bypass logic, you c
 5.  **Load your URL list (.txt) and hit Start.**
     
 ### 📺 [Watch the Video Tutorial here](https://youtu.be/MWcPKrqZ6zs)
-
+**Scanned 4,000 URLs in 1.8 seconds**
 ## ⚖️ Legal Disclaimer
 
 This tool is provided for **Educational and Security Research purposes only**. The developer (32BYTX) is not responsible for any misuse, violations of terms of service, or legal consequences arising from the use of this software.
