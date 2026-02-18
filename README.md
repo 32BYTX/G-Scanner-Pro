@@ -43,6 +43,7 @@ Since the source code is not public to prevent misuse of the bypass logic, you c
 
 5.  **Load your URL list (.txt) and hit Start.**
     
+### 📺 [Watch the Video Tutorial here](https://youtu.be/MWcPKrqZ6zs)
 
 ## ⚖️ Legal Disclaimer
 
