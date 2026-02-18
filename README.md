@@ -3,6 +3,10 @@
 
 **G-Scanner Pro** is a professional-grade, high-speed security tool built for massive URL scanning. It leverages a unique architectural bypass to interact directly with Google’s backend, detecting malware, phishing, and malicious threats at a scale once thought impossible for public tools.
 
+**The original service is available at:** [https://transparencyreport.google.com/safe-browsing/search](https://transparencyreport.google.com/safe-browsing/search)
+
+**However, it comes with limitations and lacks detailed information.**
+
 ## ⚡ The Technical Secret: Broken Access Control & Auth Bypass
 
 This tool is not a standard API implementation. It is a proof-of-concept for a significant architectural oversight:
